@@ -13,3 +13,5 @@ Insights and Recommendations are provided on the following key areas:
 The data is structured using 3 tables: orders, customers and products
 
 <img width="881" height="568" alt="Image" src="https://github.com/user-attachments/assets/aa241cce-545e-4018-88e8-79aa36b6d391" />
+
+## Executive Summary
