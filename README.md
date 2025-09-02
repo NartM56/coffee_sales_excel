@@ -15,3 +15,5 @@ The data is structured using 3 tables: orders, customers and products
 <img width="881" height="568" alt="Image" src="https://github.com/user-attachments/assets/aa241cce-545e-4018-88e8-79aa36b6d391" />
 
 ## Executive Summary
+
+<img width="806" height="433" alt="Image" src="https://github.com/user-attachments/assets/8dbd785e-7531-4498-be31-ca10335156b5" />
