@@ -18,4 +18,16 @@ The data is structured using 3 tables: orders, customers and products
 
 ### Overview of Findings
 
-<img width="806" height="433" alt="Image" src="https://github.com/user-attachments/assets/663a8956-b2b3-4397-ac4b-778cf10ce568" />
+Country sales are uneven, with United States leading by a wide margin, which shows opportunities for improvement in other countries, and the risk of relying on one country for all sales.
+
+Below is the screenshot of the Excel dashboard. To further interact with the filters of the dashboard, download [here](./coffeeOrdersSolution.xltx)
+
+<img width="1461" height="695" alt="Image" src="https://github.com/user-attachments/assets/64d3cfbe-f392-4f7a-8036-5bac9e7a3973" />
+
+## Recommendations
+
+Based on the uncovered insights, the following recommendations have been provided:
+
+  - Seeing as there is a big gap between the sales in different countries, run targeted campaigns in the underperforming regions
+  - Customers prefer buying large quantites (1kg and 2.5kg) over small quantities (0.2kg and 0.5kg), suggesting buyers are more inclined to stock up. To improve sales, increase the inventory of the higher quantities and introduce value discounts or a buy one get one free offer. Reducing the storage of the smaller sizes could possibly improve revenue.
+  - Continue and push forward with the loyalty program: In order to convert the non-members, consider adverstising a one time sign up discount, along with a free sample pack of coffee of their choice.
