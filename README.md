@@ -24,6 +24,13 @@ Below is the screenshot of the Excel dashboard. To further interact with the fil
 
 <img width="1461" height="695" alt="Image" src="https://github.com/user-attachments/assets/64d3cfbe-f392-4f7a-8036-5bac9e7a3973" />
 
+## Insights Deep Dive
+
+### Sales Trends Analysis:
+
+  - 
+
+
 ## Recommendations
 
 Based on the uncovered insights, the following recommendations have been provided:
