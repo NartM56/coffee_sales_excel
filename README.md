@@ -29,18 +29,18 @@ Below is the screenshot of the Excel dashboard. To further interact with the fil
 ### Sales Trends Analysis:
 - Sales have been fluctuating repeadetly throughout the years, with Arabica and Liberica hitting the highest of peaks at around 840 sales during the month. Sales have gone as low as 40 coffee bean purchases during the month. The constant fluctuation could be attributed to the purchases in high bulk, causing the spikes followed by dips.
 - Coffee sales experienced the highest during the 4th quarter of each year, due to a good deal of holidays happening during this time, such as Halloween and Christmas. This can also be attributed to the weather during the time, as a hot coffee cup serves a big purpose in many people's days.
-- 
 
 ### Loyalty Program Success
-- Program has been underperforming, as sales through loyalty members has been consistently lower than the sales through unsubscribed members
-- Most recent mont
+- Program has been underperforming, as sales through loyalty members has been consistently lower than the sales through unsubscribed members, indicating loyalty program is being run poorly.
+- 3 of the top 5 customers in total sales are not enrolled in loyalty program, showing that either the loyalty program is not being advertising with enough effort or the benefits of being in the loyalty program are not worth is unrewarding.
 
 ### Coffee Order Attributes
 - Purchases of 1kg beans has amassed a total of $11010.75 in coffee sales, with 0.2kg beans collecting a toal of $3307.96 and 0.5 beans making $7029.99. Customers are clearly interested in buying coffee in bulk, with the 1kg bag gaining 232.8% more than the 0.2kg bag and 56.6% more than the 0.5kg bag.
-- 
+- In 2019 and 2020, light coffee has been outperforming both medium and dark coffee, but so far in 2021, the gap has closed down between the roast types, with light roast earning a total of around $3280, followed by medium roast producing $3225 and dark roast earning $3055.
 
 ### Location Comparison
-- United States is 
+- United States is consuming the most coffee by a considerable margin, totalling $26,268.38 throughout all the years and exceeding the nearest country by 405.76%
+- Ireland and the UK have been trailing behind, possibly due to the population, but also to the lack of advertising and marketing of the coffee in the countries.
 
 
 ## Recommendations
